@@ -1,32 +1,39 @@
 fileFormatVersion: 2
 guid: 3d76399e58c9b1140bc71928cb7ef83d
-timeCreated: 1512739664
+timeCreated: 1512745200
 licenseType: Free
 SketchUpImporter:
   generateBackFace: 0
   mergeCoplanarFaces: 0
-  selectedNodes: 
+  selectedNodes: 000000000100000002000000
   assetHash:
     serializedVersion: 2
-    Hash: 2679f6a6bafe71dec45d19fd5437652d
-  longitude: 0
-  latitude: 0
-  northCorrection: 0
+    Hash: d9264051c42fa1cbabb7c975418f5e54
+  longitude: -47.917
+  latitude: -15.783
+  northCorrection: -0
   fileUnit: 0
   sketchUpImportData:
     defaultCamera:
-      position: {x: 0, y: 0, z: 0}
-      lookAt: {x: 0, y: 0, z: 1}
-      up: {x: 0, y: 1, z: 0}
-      fov: 45
-      aspectRatio: 1.33
-      orthoSize: 0
+      position: {x: -2.4277036, y: 6.0576053, z: 7.5607896}
+      lookAt: {x: 1.5661194, y: 1.3735094, z: 0.5285556}
+      up: {x: 0.24751425, y: 0.8653322, z: -0.4358175}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
       isPerspective: 1
     scenes: []
   serializedVersion: 19
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: skp6F7C
+    400000: //RootNode
+    400002: skp6F7C
+    2300000: skp6F7C
+    3300000: skp6F7C
+    4300000: Mesh skp6F7C
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 2
     materialSearch: 0
   animations:
